@@ -1,2 +1,10 @@
 # SelenaLol_Projects
-Projects I have personally worked on from school to free time. 
+
+This repository contains my projects organized by type:
+
+- MySQL projects in the `mysql/` folder
+- Python projects in the `python/` folder
+
+Current projects:
+- Hotel Management System
+- Unemployment Gender Race Analysis
